@@ -15,4 +15,10 @@
     "acuario": "Xa-xjNRkLwo",
     "piscis": "C6e9DMf2t2k"
   }
+    "extra_content": [
+    { "style": "title2", "text": "Consejo Galáctico" },
+    { "style": "quote", "text": "El universo no conspira contra ti, conspira para que despiertes." },
+    { "style": "author", "text": "Anónimo" },
+    { "style": "plain", "text": "Aprovecha la energía de Mercurio para cerrar tratos pendientes." }
+  ]
 }
